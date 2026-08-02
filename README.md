@@ -1,12 +1,15 @@
 <h1 align="center">👋 Hi, I'm Uday Damerla</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Cloud Enthusiast | Problem Solver</b>
+  <b>Full Stack Developer | AI/ML Engineer | SAP SuccessFactors</b>
 </p>
 
 <p align="center">
   <a href="mailto:udaydamerla54@gmail.com">
     <img src="https://img.shields.io/badge/Email-udaydamerla54%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/uday-damerla-46b8441a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Uday_Damerla-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/UdayDamerla">
     <img src="https://img.shields.io/badge/GitHub-UdayDamerla-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -17,64 +20,117 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with expertise in building scalable web applications, microservices, and cloud-native solutions. I love solving complex problems and turning ideas into reality through clean, maintainable code.
+I'm a Full Stack Developer at **SAP SuccessFactors** with a passion for building scalable enterprise applications and AI-powered solutions. I specialize in microservices architecture, GenAI integrations, and cloud-native development.
 
-- 🔭 Currently working on full-stack applications and cloud infrastructure
-- 🌱 Exploring Kubernetes, distributed systems, and advanced backend architectures
-- 💡 Interested in DevOps, CI/CD, and automation
+- 🔭 Currently working on **AI/ML applications, Claude Skills, MCPs, and Intelligent Agents**
+- 🌱 Exploring **RAG systems, LLM orchestration, and agentic workflows**
+- 💡 Specialized in **distributed systems, performance engineering, and multi-tenant SaaS platforms**
+- 🎓 M.Tech in Software Engineering from **BITS Pilani** | B.Tech from **KITS Warangal**
+- 🏆 **AWS AI/ML Scholar** | Udacity AI & ML Engineering Nanodegree
 - 📫 Reach me at: **udaydamerla54@gmail.com**
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 SAP SuccessFactors - Full Stack Developer _(May 2025 - Present)_
+- **Microservices Architecture**: Designed and shipped REST APIs for RCM Agency microservice with seamless authentication flows
+- **Performance Optimization**: Reduced p95 latency by **42%** (380ms → 220ms) through Redis caching, database optimization, and query tuning
+- **Cloud Migration**: Migrated services to Kubernetes with Helm charts, HPA, and health probes achieving **99.9% uptime**
+- **Security Implementation**: Implemented MFA with SAP IAS using OAuth 2.0/JWT validation
+
+### 🔬 SAP Smart Labs - Full Stack Developer _(Sep 2024 - Apr 2025)_
+- **Multi-Tenant SaaS**: Architected Care for Life (CFL) platform on SAP BTP using CAP Node.js, CDS, and HANA Cloud
+- **Employee Experience**: Shipped 3 enterprise applications improving employee engagement by **25%** for 4000+ users
+- **Security & Authorization**: Implemented secure tenant isolation with role-based access control
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Core
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Frameworks & Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### AI/ML & GenAI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-181A1F?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 
 ### Databases & Caching
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 🤖 [GenAI Sales Prediction Platform](https://github.com/UdayDamerla/career-ops-main)
+**SAP "Invent for Customers" Hackathon Winner**
+- Built RAG-based chatbot integrating time-series sales predictions with competitor analysis
+- Correlated historical sales data, competitor models, and real-time news events for actionable forecasts
+- **Tech Stack**: Python, RAG, GenAI, Time-Series Forecasting, News API
+
+### 🧠 Claude-based Test Impact Assessment Skill
+**AI-Powered Developer Tool**
+- Developed Claude skill analyzing PR/branch diffs to identify affected test cases
+- Automated QA workflows reducing regression test overhead
+- **Tech Stack**: Claude API, Python, Git API Integration
+
+### 🔗 MCP-Based JIRA & Git Automation
+**Intelligent Agent System**
+- Engineered MCP integrations with JIRA and Git APIs to automate ticket workflows
+- Built dependency scanner for vulnerability patches via automated PRs
+- Reduced manual security triage by **60%**
+- **Tech Stack**: MCP, Claude API, JIRA API, Git API
+
+### 📦 [ML Production Systems on AWS](https://github.com/UdayDamerla/inventory-management-system)
+**End-to-End ML Pipeline**
+- Built delivery-time prediction models using XGBoost on AWS SageMaker
+- Designed data pipeline with Step Functions and Lambda achieving **<200ms prediction latency**
+- **Tech Stack**: AWS SageMaker, XGBoost, Lambda, Step Functions
+
+### 🔐 [SocialFlow Security Assessment](https://github.com/UdayDamerla/SocialFlow-Assessment)
+**Penetration Testing Toolkit**
+- Security vulnerability assessment with automated exploit scripts
+- SQL injection, SSRF, IDOR, and JWT vulnerability testing suite
+- **Tech Stack**: Python, Security Testing, API Testing
+
+### ☸️ [Kubernetes Production Demo](https://github.com/UdayDamerla/k8s-demo)
+**Cloud-Native Infrastructure**
+- Production-ready Kubernetes deployment with autoscaling and monitoring
+- CI/CD pipelines with Jenkins and ArgoCD
+- **Tech Stack**: Kubernetes, Docker, Helm, ArgoCD, Jenkins
 
 ---
 
@@ -91,22 +147,20 @@ I'm a passionate software engineer with expertise in building scalable web appli
 
 ---
 
-## 🏆 Featured Projects
+## 🎓 Education
 
-### 🔐 [SocialFlow Assessment](https://github.com/UdayDamerla/SocialFlow-Assessment)
-Security vulnerability assessment and penetration testing toolkit with automated exploit scripts.
+**M.Tech in Software Engineering** | BITS Pilani | CGPA: 7.44 | _Graduated 2026_
 
-### 💼 [Job Board Platform](https://github.com/UdayDamerla/job-board)
-Full-stack job board application with advanced filtering and search capabilities.
+**B.Tech in Computer Science and Engineering** | KITS Warangal | CGPA: 8.19 | _Graduated 2024_
 
-### 🚀 [Feature Flag System](https://github.com/UdayDamerla/feature-flag-system)
-Enterprise-grade feature flag management system with real-time updates and user targeting.
+---
 
-### 📦 [Inventory Management System](https://github.com/UdayDamerla/inventory-management-system)
-Comprehensive inventory tracking solution with RESTful API and React frontend.
+## 🏅 Certifications & Achievements
 
-### ☸️ [Kubernetes Demo](https://github.com/UdayDamerla/k8s-demo)
-Production-ready Kubernetes deployment with autoscaling, monitoring, and CI/CD pipelines.
+- 🎖️ **AWS AI/ML Scholar Program** - Udacity AI & ML Engineering Nanodegree
+- 🏆 **SAP "Invent for Customers" Hackathon** - GenAI Sales Prediction Platform
+- ⚡ **Performance Engineering** - Reduced production latency by 42% at SAP SuccessFactors
+- 🌐 **Multi-Tenant SaaS Architecture** - Designed and shipped Care for Life platform on SAP BTP
 
 ---
 
@@ -123,7 +177,7 @@ Production-ready Kubernetes deployment with autoscaling, monitoring, and CI/CD p
 ---
 
 <p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>⚡ "Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke</i>
 </p>
 
 <p align="center">
