@@ -78,41 +78,6 @@ I'm a Full Stack Developer at **SAP** with a passion for building scalable enter
 
 ---
 
-## 🏆 Featured Projects
-
-### 🧠 Claude-based Test Impact Assessment Skill
-**AI-Powered Developer Tool**
-- Developed Claude skill analyzing PR/branch diffs to identify affected test cases
-- Automated QA workflows reducing regression test overhead
-- **Tech Stack**: Claude API, Python, Git API Integration
-
-### 🔗 MCP-Based JIRA & Git Automation
-**Intelligent Agent System**
-- Engineered MCP integrations with JIRA and Git APIs to automate ticket workflows
-- Built dependency scanner for vulnerability patches via automated PRs
-- Reduced manual security triage by **60%**
-- **Tech Stack**: MCP, Claude API, JIRA API, Git API
-
-### 📦 [ML Production Systems on AWS](https://github.com/UdayDamerla/inventory-management-system)
-**End-to-End ML Pipeline**
-- Built delivery-time prediction models using XGBoost on AWS SageMaker
-- Designed data pipeline with Step Functions and Lambda achieving **<200ms prediction latency**
-- **Tech Stack**: AWS SageMaker, XGBoost, Lambda, Step Functions
-
-### 🔐 [SocialFlow Security Assessment](https://github.com/UdayDamerla/SocialFlow-Assessment)
-**Penetration Testing Toolkit**
-- Security vulnerability assessment with automated exploit scripts
-- SQL injection, SSRF, IDOR, and JWT vulnerability testing suite
-- **Tech Stack**: Python, Security Testing, API Testing
-
-### ☸️ [Kubernetes Production Demo](https://github.com/UdayDamerla/k8s-demo)
-**Cloud-Native Infrastructure**
-- Production-ready Kubernetes deployment with autoscaling and monitoring
-- CI/CD pipelines with Jenkins and ArgoCD
-- **Tech Stack**: Kubernetes, Docker, Helm, ArgoCD, Jenkins
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
