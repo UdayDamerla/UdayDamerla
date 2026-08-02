@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Uday Damerla</h1>
 
 <p align="center">
-  <b>Full Stack Developer | AI/ML Engineer | SAP SuccessFactors</b>
+  <b>Full Stack Developer | AI/ML Engineer | SAP</b>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer at **SAP SuccessFactors** with a passion for building scalable enterprise applications and AI-powered solutions. I specialize in microservices architecture, GenAI integrations, and cloud-native development.
+I'm a Full Stack Developer at **SAP** with a passion for building scalable enterprise applications and AI-powered solutions. I specialize in microservices architecture, GenAI integrations, and cloud-native development.
 
 - 🔭 Currently working on **AI/ML applications, Claude Skills, MCPs, and Intelligent Agents**
 - 🌱 Exploring **RAG systems, LLM orchestration, and agentic workflows**
@@ -28,21 +28,6 @@ I'm a Full Stack Developer at **SAP SuccessFactors** with a passion for building
 - 🎓 M.Tech in Software Engineering from **BITS Pilani** | B.Tech from **KITS Warangal**
 - 🏆 **AWS AI/ML Scholar** | Udacity AI & ML Engineering Nanodegree
 - 📫 Reach me at: **udaydamerla54@gmail.com**
-
----
-
-## 💼 Professional Experience
-
-### 🏢 SAP SuccessFactors - Full Stack Developer _(May 2025 - Present)_
-- **Microservices Architecture**: Designed and shipped REST APIs for RCM Agency microservice with seamless authentication flows
-- **Performance Optimization**: Reduced p95 latency by **42%** (380ms → 220ms) through Redis caching, database optimization, and query tuning
-- **Cloud Migration**: Migrated services to Kubernetes with Helm charts, HPA, and health probes achieving **99.9% uptime**
-- **Security Implementation**: Implemented MFA with SAP IAS using OAuth 2.0/JWT validation
-
-### 🔬 SAP Smart Labs - Full Stack Developer _(Sep 2024 - Apr 2025)_
-- **Multi-Tenant SaaS**: Architected Care for Life (CFL) platform on SAP BTP using CAP Node.js, CDS, and HANA Cloud
-- **Employee Experience**: Shipped 3 enterprise applications improving employee engagement by **25%** for 4000+ users
-- **Security & Authorization**: Implemented secure tenant isolation with role-based access control
 
 ---
 
@@ -159,8 +144,6 @@ I'm a Full Stack Developer at **SAP SuccessFactors** with a passion for building
 
 - 🎖️ **AWS AI/ML Scholar Program** - Udacity AI & ML Engineering Nanodegree
 - 🏆 **SAP "Invent for Customers" Hackathon** - GenAI Sales Prediction Platform
-- ⚡ **Performance Engineering** - Reduced production latency by 42% at SAP SuccessFactors
-- 🌐 **Multi-Tenant SaaS Architecture** - Designed and shipped Care for Life platform on SAP BTP
 
 ---
 
