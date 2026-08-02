@@ -80,12 +80,6 @@ I'm a Full Stack Developer at **SAP** with a passion for building scalable enter
 
 ## 🏆 Featured Projects
 
-### 🤖 [GenAI Sales Prediction Platform](https://github.com/UdayDamerla/career-ops-main)
-**AI-Powered Analytics Platform**
-- Built RAG-based chatbot integrating time-series sales predictions with competitor analysis
-- Correlated historical sales data, competitor models, and real-time news events for actionable forecasts
-- **Tech Stack**: Python, RAG, GenAI, Time-Series Forecasting, News API
-
 ### 🧠 Claude-based Test Impact Assessment Skill
 **AI-Powered Developer Tool**
 - Developed Claude skill analyzing PR/branch diffs to identify affected test cases
@@ -143,7 +137,6 @@ I'm a Full Stack Developer at **SAP** with a passion for building scalable enter
 ## 🏅 Certifications & Achievements
 
 - 🎖️ **AWS AI/ML Scholar Program** - Udacity AI & ML Engineering Nanodegree
-- 🏆 **GenAI Hackathon Winner** - Sales Prediction Platform with RAG Integration
 
 ---
 
