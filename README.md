@@ -53,6 +53,10 @@ I'm a Full Stack Developer at **SAP** with a passion for building scalable enter
 ![Claude AI](https://img.shields.io/badge/Claude_AI-181A1F?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat-square&logo=protocol&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00D9FF?style=flat-square&logo=robot&logoColor=white)
+![Claude Skills](https://img.shields.io/badge/Claude_Skills-6C63FF?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4081?style=flat-square&logo=database&logoColor=white)
 
 ### Databases & Caching
 ![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
