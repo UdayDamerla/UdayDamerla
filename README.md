@@ -97,9 +97,9 @@ I'm a Full Stack Developer at **SAP** with a passion for building scalable enter
 
 ## 🎓 Education
 
-**M.Tech in Software Engineering** | BITS Pilani | CGPA: 7.44 | _Graduated 2026_
+**M.Tech in Software Engineering** | BITS Pilani | _Graduated 2026_
 
-**B.Tech in Computer Science and Engineering** | KITS Warangal | CGPA: 8.19 | _Graduated 2024_
+**B.Tech in Computer Science and Engineering** | KITS Warangal | _Graduated 2024_
 
 ---
 
