@@ -109,22 +109,6 @@ I'm a Full Stack Developer at **SAP** with a passion for building scalable enter
 
 ---
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UdayDamerla&theme=tokyo-night&hide_border=true&area=true)
-
----
-
-## 💭 Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<p align="center">
-  <i>⚡ "Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke</i>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UdayDamerla&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
